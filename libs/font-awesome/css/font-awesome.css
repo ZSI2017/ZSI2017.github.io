@@ -634,6 +634,9 @@
 .fa-github:before {
   content: "\f09b";
 }
+..fa-segmentfault:before {
+  content: "\f09b";
+}
 .fa-unlock:before {
   content: "\f09c";
 }
